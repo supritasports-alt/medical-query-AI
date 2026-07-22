@@ -1,0 +1,6 @@
+{
+  "name": "Medical Query Intake AI",
+  "description": "GenAI Pioneer - Medical Affairs Query Intelligence: Intake, entity extraction, missing info detection, classification, and structured JSON payload generation for healthcare professional queries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
